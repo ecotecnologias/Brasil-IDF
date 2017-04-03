@@ -12,7 +12,7 @@ qgisMinimumVersion=2.0
 description=This plugin allows to get the I-D-F and P-D-F curve, the precipitation for a specific duration, and the design rain through alternating block method to any region in Brazil.
 version=0.1
 author=Robson Leo Pachaly, Daniel Alassia, Raviel Eurico Basso, Jessica Ribeiro Fontoura
-email=robsonleopachaly@yahoo.com.br
+email=ecoplugin@gmail.com
 
 about=This plugin was developed by Pachaly (2017) in order to obtain the I-D-F and P-D-F curve to any region in Brazil. The plugin also allows to get the precipition for a specific duration and the design rain through the Alternating Block Methor. The plugin is based on "Review of the high intensity rainfall zones of Brazil" (Basso et al., 2016).
 
