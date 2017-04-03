@@ -1,0 +1,39 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Brasil IDF
+qgisMinimumVersion=2.0
+description=Esta ferramenta permite a aquisição das curvas IDF e PDF, a precipitação para uma duração específica e a chuva de projeto pelo método dos blocos alternados para qualquer localidade do Brasil.
+version=0.1
+author=Robson Leo Pachaly, Daniel Alassia, Raviel Eurico Basso
+email=robsonleopachaly@yahoo.com.br
+
+about=Esse plugin foi desenvolvido por Pachaly (2017) visando a obtenção das curvas I-D-F e P-D-F para qualquer localidade do Brasil. O plugin também permite obter a precipitação para uma duração específica e a chuva de projeto pelo método dos blocos alternados. O plugin tem como base a Revisão das isozonas de chuvas intensas do Brasil (Basso et al., 2016).
+
+tracker=github.com
+repository=github.com
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=Hidrologia, IDF, PDF, Blocos Alternados, Chuva de Projeto
+
+homepage=
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
