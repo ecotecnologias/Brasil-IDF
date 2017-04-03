@@ -9,15 +9,15 @@
 [general]
 name=Brasil IDF
 qgisMinimumVersion=2.0
-description=Esta ferramenta permite a aquisição das curvas IDF e PDF, a precipitação para uma duração específica e a chuva de projeto pelo método dos blocos alternados para qualquer localidade do Brasil.
+description=This plugin allows to get the I-D-F and P-D-F curve, the precipitation for a specific duration, and the design rain through alternating block method to any region in Brazil.
 version=0.1
-author=Robson Leo Pachaly, Daniel Alassia, Raviel Eurico Basso
+author=Robson Leo Pachaly, Daniel Alassia, Raviel Eurico Basso, Jessica Ribeiro Fontoura
 email=robsonleopachaly@yahoo.com.br
 
-about=Esse plugin foi desenvolvido por Pachaly (2017) visando a obtenção das curvas I-D-F e P-D-F para qualquer localidade do Brasil. O plugin também permite obter a precipitação para uma duração específica e a chuva de projeto pelo método dos blocos alternados. O plugin tem como base a Revisão das isozonas de chuvas intensas do Brasil (Basso et al., 2016).
+about=This plugin was developed by Pachaly (2017) in order to obtain the I-D-F and P-D-F curve to any region in Brazil. The plugin also allows to get the precipition for a specific duration and the design rain through the Alternating Block Methor. The plugin is based on "Review of the high intensity rainfall zones of Brazil" (Basso et al., 2016).
 
-tracker=github.com
-repository=github.com
+tracker=https://github.com/ecotecnologias/Brasil-IDF/issues
+repository=https://github.com/ecotecnologias/Brasil-IDF
 # End of mandatory metadata
 
 # Recommended items:
